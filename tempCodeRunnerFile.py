@@ -1,0 +1,1 @@
+window = ttk.Window(themename= "darkly")
